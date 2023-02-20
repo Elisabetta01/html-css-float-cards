@@ -1,0 +1,40 @@
+section{
+     margin: 30px auto;
+}
+
+header{
+     text-align: center;
+}
+
+h1{
+     color: crimson;
+}
+
+.card{
+     background-color: black;
+     width: calc((100% / 3) - 20px);
+     margin-left: 20px;
+     margin-bottom: 20px;
+     height: 80px;
+     float: left;
+     box-shadow: 0 0 10px;
+}
+
+img{
+     float: left;
+     height: 80px;    
+}
+
+.info{
+     color: white;
+     padding-top: 12px;
+}
+
+.card span{
+     display: block;
+}
+
+#email{
+     color:aqua;
+     font-size: small;
+}
